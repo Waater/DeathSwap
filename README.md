@@ -24,3 +24,5 @@ I suggest that you use a plugin like PureEntitiesX so you can have mobs spawn ar
  It's that simple! You will need the permission "deathswap.command" in order for a player to have access to the commands listed above!
  
  ## NOTE: If there are any issues or any features you'd like to get added to the game please create an issue!
+
+Also here's an example on how DeathSwap is played!https://www.youtube.com/watch?v=KjRfXURKAx8
